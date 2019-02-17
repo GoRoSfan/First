@@ -2,4 +2,4 @@
 First try
 
 
-It is my first branch. I think, it will be funny and interesting.
+It is my first set of program. I think, making program will be funny and interesting.
